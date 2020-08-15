@@ -86,9 +86,6 @@ while True:
 
         #prediction
         pred = KNN(dataset, face_section.flatten())
-        print("**********************")
-        print(pred)
-        print("XXXXXXXXXXXXXXXXXXXXXX")
 
         #displaying name on the screen
         pred_name = mapping[int(pred)]
