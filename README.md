@@ -6,3 +6,6 @@
 3 - COLLAGE CREATOR - Learn how to use numPy and openCv to create collages from images
 
 4 - TWITTER SENTIMENT ANALYSIS - Learn how to clean text data and build a Naive-Bayes classifier to classify tweets sentiment
+
+5 - STOCK PRICE PREDICTOR - Learn how to Build a Recurrent Neural Network Architecture - A 4-layered LSTM model with adam optimizer and dropout regularization using Keras API to predict the Google stock prices of the future month using 5 years of training datset.
+
