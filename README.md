@@ -4,3 +4,5 @@
 2 - REAL TIME FACE RECOGNITION - Learn how to capture live images through webcam and to identify the faces using OpenCV and KNN Algorithm
 
 3 - COLLAGE CREATOR - Learn how to use numPy and openCv to create collages from images
+
+4 - TWITTER SENTIMENT ANALYSIS - Learn how to clean text data and build a Naive-Bayes classifier to classify tweets sentiment
