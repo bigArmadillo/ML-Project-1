@@ -10,3 +10,5 @@
 5 - STOCK PRICE PREDICTOR - Learn how to Build a Recurrent Neural Network Architecture - A 4-layered LSTM model with adam optimizer and dropout regularization using Keras API to predict the Google stock prices of the future month using 5 years of training datset.
 
 6 - MUSIC GENERATION - Learn how to create music by training a LSTM model on a desirable music style like Jazz
+
+7 - MARKOV CHAIN - Learn how to use Markov Chain for lyric, speech, code etc generation
