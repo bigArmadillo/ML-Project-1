@@ -12,3 +12,5 @@
 6 - MUSIC GENERATION - Learn how to create music by training a LSTM model on a desirable music style like Jazz
 
 7 - MARKOV CHAIN - Learn how to use Markov Chain for lyric, speech, code etc generation
+
+8 - GAN - Generative Adversarial Network: Learn how to create fake images of digits by training GAN on MNIST dataset
